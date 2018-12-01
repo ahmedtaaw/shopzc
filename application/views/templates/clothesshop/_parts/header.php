@@ -15,8 +15,8 @@
         <link rel="stylesheet" href="<?= base_url('assets/css/font-awesome.min.css') ?>" />
         <link href="<?= base_url('templatecss/bootstrap.min.css') ?>" rel="stylesheet" />
         <link href="<?= base_url('assets/css/bootstrap-datepicker.min.css') ?>" rel="stylesheet" />
-        <link href="<?= base_url('templatecss/custom.css') ?>" rel="stylesheet" />
         <link href="<?= base_url('cssloader/theme.css') ?>" rel="stylesheet" />
+        <link href="<?= base_url('templatecss/custom.css') ?>" rel="stylesheet" />
         <script src="<?= base_url('assets/js/jquery.min.js') ?>"></script>
         <script src="<?= base_url('loadlanguage/all.js') ?>"></script>
         <?php if ($cookieLaw != false) { ?>
